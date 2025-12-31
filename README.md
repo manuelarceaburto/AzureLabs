@@ -2,11 +2,23 @@
 
 A comprehensive collection of hands-on labs for Azure Administrator (AZ104) certification preparation. These labs cover all major Azure services and management tasks required for the AZ104 exam.
 
+## Getting Started
+
+**🆕 New to this repository?** Start here:
+- **[Module 00: Getting Started with GitHub and VS Code](00-getting-started/README.md)** - Complete setup guide including Git installation, VS Code configuration, repository cloning, and required extensions
+
 ## Repository Structure
 
-This repository is organized into 5 main modules, each containing 3 focused labs:
+This repository is organized into 7 modules, starting with setup and progressing through all AZ-104 exam domains:
 
-### Module 1: Manage Identities and Governance
+### Module 000: Getting Started (Prerequisites)
+- Git and VS Code installation
+- Repository cloning from GitHub
+- Required extensions setup (Azure, Bicep, PowerShell)
+- Azure CLI configuration and authentication
+- Repository navigation and testing
+
+### Module 01: Manage Identities and Governance
 - **Lab 01**: Entra ID Users and Groups
 - **Lab 02**: RBAC and Custom Roles
 - **Lab 03**: Subscriptions and Management Groups
@@ -16,17 +28,17 @@ This repository is organized into 5 main modules, each containing 3 focused labs
 - **Lab 02**: Blob Lifecycle Management
 - **Lab 03**: Azure Files Sync
 
-### Module 3: Deploy and Manage Compute
+### Module 03: Deploy and Manage Compute
 - **Lab 01**: Virtual Machine Deployment
 - **Lab 02**: Virtual Machine Scale Sets
 - **Lab 03**: Containers and ACI
 
-### Module 4: Configure and Manage Networking
+### Module 04: Configure and Manage Networking
 - **Lab 01**: VNets and Peering
 - **Lab 02**: NSGs and ASGs
 - **Lab 03**: Load Balancers
 
-### Module 5: Monitor and Backup Resources
+### Module 05: Monitor and Backup Resources
 - **Lab 01**: Azure Monitor
 - **Lab 02**: Backup and Recovery
 - **Lab 03**: Log Analytics

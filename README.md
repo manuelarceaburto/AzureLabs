@@ -43,6 +43,16 @@ This repository is organized into 7 modules, starting with setup and progressing
 - **Lab 02**: Backup and Recovery
 - **Lab 03**: Log Analytics
 
+### Module 06: Infrastructure as Code with Bicep
+- **Lab 01**: Bicep Basics
+- **Lab 02**: Bicep Modules
+- **Lab 03**: Bicep Advanced Patterns
+
+### Module 07: Advanced Networking
+- **Lab 01**: Azure Firewall and Firewall Manager
+- **Lab 02**: VPN Gateway and Site-to-Site Connectivity
+- **Lab 03**: Application Gateway with Web Application Firewall
+
 ## How to Use This Repository
 
 Each lab directory contains:
